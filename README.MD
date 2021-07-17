@@ -1,4 +1,4 @@
-## Ola Eu sou o Fábio Teraoka
+## Ola, eu sou o Fábio Teraoka
  <div>
   <a href="https://github.com/fabioteraoka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioteraoka&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
